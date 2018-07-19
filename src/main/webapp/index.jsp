@@ -4,7 +4,6 @@
 	</head>
 	<body style="background-color:red;">
 		<p>Hello SDET- you are the future of AQE</p>
-		<p>Lekshmi is SMART</p>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		
 						<p id="demo"></p>
